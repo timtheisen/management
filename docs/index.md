@@ -1,6 +1,6 @@
 # OSG Management
 
-This is the Open Science Grid (OSG) Management website, providing information about the management structure and activities of the OSG
+This is the OSG Management website, providing information about the management structure and activities of the OSG
 Consortium.
 
 
@@ -26,18 +26,19 @@ Project, as well as contributions from OSG Consortium members.
 Current Executive Team members:
 
 * Frank Würthwein, University of California San Diego, OSG Executive Director
+* Peter Couvares, LIGO laboratory - Caltech, OSG Executive Director-Elect
 * Miron Livny, University of Wisconsin&ndash;Madison, OSG Technical Director and PI
 * Brian Bockelman, Morgridge Institute for Research, OSG Services and Technology lead
 * Christina Koch, University of Wisconsin&ndash;Madison, OSG Research Facilitation lead
 * Derek Weitzel, University of Nebraska–Lincoln, Campus, NRP, and HEP representative
-* Eric Sedore, Syracuse University, Resource contributor
 * Jérôme Lauret, Brookhaven National Laboratory, Nuclear Physics representative
-* Mike Stanfield, Indiana University, OSG Security lead
+* Mark Krenz, Indiana University, OSG Security lead
 * Lisa Goodenough, Fermi National Accelerator Laboratory, Fermilab representative
 * Liz Sexton-Kennedy, Fermi National Accelerator Laboratory, Fermilab representative, OSG Council chair
 * Mark Neubauer, University of Illinois at Urbana-Champaign, HEP representative
 * Rob Gardner, University of Chicago, OSG Collaboration Support
 * Tim Cartwright, University of Wisconsin&ndash;Madison, OSG Campus Coordinator
+* Eric Lancon, Brookhaven National Laboratory, Nuclear Physics representative
 
 
 ## Management Activities
