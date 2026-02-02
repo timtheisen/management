@@ -94,7 +94,7 @@ of a special topic, which will be announced in advance.
 -   2026-01-07 - Operations (Jeff Dost)
 -   2026-01-14 - Town Hall
 -   2026-01-21 - Security (Mark Krenz)
--   2026-01-28 - Release (Tim Theisen)
+-   2026-01-28 - [Release, update](https://docs.google.com/presentation/d/1LJyc9idEHwWCLPp1JEKQwp9vPPntyqXVoHoVznmqILE/) (Tim Theisen)
 -   2026-02-04 - HTCSS (Todd Tannenbaum)
 -   2026-02-11 - Town Hall
 
